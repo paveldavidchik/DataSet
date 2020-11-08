@@ -1,7 +1,4 @@
 
-from typing import Any
-
-
 class DataSet:
     """Контейнер для хранения элементов"""
     def __init__(self, data: dict = {}):
