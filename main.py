@@ -26,4 +26,4 @@ class DataSet:
 
 data = DataSet()
 data['key'] = 'value'
-print(data['key2'])
+print(data['key'])
